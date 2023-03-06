@@ -9,6 +9,8 @@ Total unique-per-package URLs: 7,173,008
 - Ends with Empty Query Parameter: 0.9% (67,161)
 - Localhost: 2.2% (160,541)
 
+--------------------------------------------------------
+
 Total Unique Domains: 267,115
 - Domains Appearing Only Once: 2.1% (5554)
 
@@ -113,6 +115,8 @@ Top 100 Most Common Domains:
 - ecma-international.org 4.98691974486545% (344045)
 - www.w3.org 5.719741618577209% (394602)
 - github.com 13.499130592084473% (931298)
+ 
+ --------------------------------------------------------
  
 URLs by Scheme:
 - HTTPS: 66.1% (4,740,622)
